@@ -6,8 +6,8 @@ Phiên bản này độc lập từ tác giả David Revoy cho nên được g�
 Giấy Phép: CC BY SA David Revoy Năm 2022
 
 ![alt tag](E37P00.png)
-!(E37P01.png)
-
+![alt tag](E37P01.png)
+![alt tag](E37P02.png)
 
 
 
